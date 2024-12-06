@@ -1,0 +1,208 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pages", "Pages", "{3FFB919B-CCCF-49FA-9D27-F47376884B18}"
+	ProjectSection(SolutionItems) = preProject
+		aboutme.html = aboutme.html
+		homepage.html = homepage.html
+		Portfolio1.html = Portfolio1.html
+		Portfolio2.html = Portfolio2.html
+		Portfolio3.html = Portfolio3.html
+		Portfolio4.html = Portfolio4.html
+		Portfolio5.html = Portfolio5.html
+		Portfolio6.html = Portfolio6.html
+		reference1.html = reference1.html
+		Reference2.html = Reference2.html
+		reference3.html = reference3.html
+		reference4.html = reference4.html
+		reference5.html = reference5.html
+		reference6.html = reference6.html
+		StartPage.html = StartPage.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Style", "Style", "{83C274AE-5D3A-4C9E-B333-0F87FC2A1065}"
+	ProjectSection(SolutionItems) = preProject
+		aboutme.css = aboutme.css
+		homestyle.css = homestyle.css
+		Portfolio1.css = Portfolio1.css
+		Portfolio2.css = Portfolio2.css
+		Portfolio3.css = Portfolio3.css
+		Portfolio4.css = Portfolio4.css
+		Portfolio5.css = Portfolio5.css
+		Portfolio6.css = Portfolio6.css
+		reference1.css = reference1.css
+		Startstyle.css = Startstyle.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "script", "script", "{B73B2586-BE9F-4535-803F-2440F8CA76F6}"
+	ProjectSection(SolutionItems) = preProject
+		startpage.js = startpage.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{0BAF8686-1453-4C7B-AFD2-67E86243136B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\about-me-pic.jpg = ..\..\..\Downloads\about-me-pic.jpg
+		Images\achievements.jpg = Images\achievements.jpg
+		Images\BADMINTON.jpg = Images\BADMINTON.jpg
+		Images\COM-E.png = Images\COM-E.png
+		Images\com.jpg = Images\com.jpg
+		Images\come.png = Images\come.png
+		Images\computer-svgrepo-com.svg = Images\computer-svgrepo-com.svg
+		Images\computerscience.jpg = Images\computerscience.jpg
+		Images\comsciasdisc.jpg = Images\comsciasdisc.jpg
+		Images\comscidi2.jpg = Images\comscidi2.jpg
+		Images\comscidis2.jpg = Images\comscidis2.jpg
+		Images\cs.png = Images\cs.png
+		..\..\..\Downloads\data-svgrepo-com.svg = ..\..\..\Downloads\data-svgrepo-com.svg
+		Images\discmajor.png = Images\discmajor.png
+		Images\EATING.jpg = Images\EATING.jpg
+		Images\face.jpg = Images\face.jpg
+		Images\fundamentalconcepts.png = Images\fundamentalconcepts.png
+		Images\history1.png = Images\history1.png
+		Images\history2.png = Images\history2.png
+		..\..\..\Downloads\home page pic.jpg = ..\..\..\Downloads\home page pic.jpg
+		..\..\..\Downloads\homepagepic.jpg = ..\..\..\Downloads\homepagepic.jpg
+		..\..\..\Downloads\icons8-computer-science-64.png = ..\..\..\Downloads\icons8-computer-science-64.png
+		Images\is.png = Images\is.png
+		Images\it.png = Images\it.png
+		Images\keyareas.jpg = Images\keyareas.jpg
+		Images\motherboard-svgrepo-com.svg = Images\motherboard-svgrepo-com.svg
+		Images\numbersystem.png = Images\numbersystem.png
+		Images\se.png = Images\se.png
+		..\..\..\Downloads\tools-and-utensils-computer-svgrepo-com.svg = ..\..\..\Downloads\tools-and-utensils-computer-svgrepo-com.svg
+		Images\WATCHING.jpg = Images\WATCHING.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contributors", "Contributors", "{941C87EC-9F70-4F78-8429-995D4ADA5F45}"
+	ProjectSection(SolutionItems) = preProject
+		Images\adalovelace.jpg = Images\adalovelace.jpg
+		Images\alanturing.jpg = Images\alanturing.jpg
+		Images\godel.jpg = Images\godel.jpg
+		Images\howard.jpg = Images\howard.jpg
+		Images\konrad.jpg = Images\konrad.jpg
+		Images\neuman.jpg = Images\neuman.jpg
+		Images\vannevar.jpg = Images\vannevar.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio2", "Portfolio2", "{DA66F536-5932-4CB0-AAB6-4703D0ADDFA1}"
+	ProjectSection(SolutionItems) = preProject
+		Images\compare.png = Images\compare.png
+		Images\data.jpg = Images\data.jpg
+		Images\DS.jpg = Images\DS.jpg
+		Images\executive-information-system-slide1.png = Images\executive-information-system-slide1.png
+		Images\info.jpg = Images\info.jpg
+		Images\infosyst.jpg = Images\infosyst.jpg
+		Images\miskita.jpg = Images\miskita.jpg
+		Images\model.png = Images\model.png
+		Images\operef.jpg = Images\operef.jpg
+		Images\port2pic.jpg = Images\port2pic.jpg
+		Images\process.png = Images\process.png
+		Images\PYRAMID.png = Images\PYRAMID.png
+		Images\rawdata.png = Images\rawdata.png
+		Images\resman.jpg = Images\resman.jpg
+		Images\rolw.png = Images\rolw.png
+		Images\SUPPORTSYSTIMG.png = Images\SUPPORTSYSTIMG.png
+		Images\transyst.jpg = Images\transyst.jpg
+		Images\transyst1.png = Images\transyst1.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "port3", "port3", "{B4AD53BF-CC9A-4DD3-B737-4B6B8CBF720B}"
+	ProjectSection(SolutionItems) = preProject
+		Images\binaryirl.jpg = Images\binaryirl.jpg
+		Images\binarypic.jpg = Images\binarypic.jpg
+		Images\btable.png = Images\btable.png
+		Images\deccon.png = Images\deccon.png
+		Images\decpic.jpg = Images\decpic.jpg
+		Images\hexpic.webp = Images\hexpic.webp
+		Images\htable.png = Images\htable.png
+		Images\numsyst.jpg = Images\numsyst.jpg
+		Images\numsystempic.jpg = Images\numsystempic.jpg
+		Images\octalirl.jpg = Images\octalirl.jpg
+		Images\octalpic.jpg = Images\octalpic.jpg
+		Images\otable.png = Images\otable.png
+		Images\sigdec.png = Images\sigdec.png
+		Images\sighex.png = Images\sighex.png
+		Images\strucsys.jpg = Images\strucsys.jpg
+		Images\types.png = Images\types.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio4", "Portfolio4", "{D31A6830-7A07-4330-AD38-C5AB2134C41A}"
+	ProjectSection(SolutionItems) = preProject
+		Images\applicationsoftware.webp = Images\applicationsoftware.webp
+		Images\appspecific.png = Images\appspecific.png
+		Images\comhard.jpg = Images\comhard.jpg
+		Images\comhard1.jpg = Images\comhard1.jpg
+		Images\computerhardwareimg.avif = Images\computerhardwareimg.avif
+		Images\comsoft.jpg = Images\comsoft.jpg
+		Images\corefunc.jpg = Images\corefunc.jpg
+		Images\devfir.png = Images\devfir.png
+		Images\external.png = Images\external.png
+		Images\externalhard.webp = Images\externalhard.webp
+		Images\genpurp.jpg = Images\genpurp.jpg
+		Images\hardimpbusiness.png = Images\hardimpbusiness.png
+		Images\hardimpschool.jpg = Images\hardimpschool.jpg
+		Images\hardwareimphospital.webp = Images\hardwareimphospital.webp
+		Images\hardwareimpingov.jpg = Images\hardwareimpingov.jpg
+		Images\hardwareimptitle.png = Images\hardwareimptitle.png
+		Images\internal.png = Images\internal.png
+		Images\internal1.png = Images\internal1.png
+		Images\operatingsyst.webp = Images\operatingsyst.webp
+		Images\softdiagram.png = Images\softdiagram.png
+		Images\softimpbusiness.webp = Images\softimpbusiness.webp
+		Images\softimpgov.png = Images\softimpgov.png
+		Images\softimphospital.jpg = Images\softimphospital.jpg
+		Images\softimpschool.jpg = Images\softimpschool.jpg
+		Images\softimptitle.png = Images\softimptitle.png
+		Images\stagesofdataflow.png = Images\stagesofdataflow.png
+		Images\systemdevsoft.jpg = Images\systemdevsoft.jpg
+		Images\systemmanage.jpg = Images\systemmanage.jpg
+		Images\systemsoft.webp = Images\systemsoft.webp
+		Images\typesofapp.png = Images\typesofapp.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio5", "Portfolio5", "{A6845F7D-F914-4D84-9E49-42A8C84D7F4B}"
+	ProjectSection(SolutionItems) = preProject
+		Images\atmotherboard.jpg = Images\atmotherboard.jpg
+		Images\atxmotherboard.png = Images\atxmotherboard.png
+		Images\btxmotherboard.jpg = Images\btxmotherboard.jpg
+		Images\difftypesofmb.jpg = Images\difftypesofmb.jpg
+		Images\extendedatx.webp = Images\extendedatx.webp
+		Images\lpxmotherboaed.png = Images\lpxmotherboaed.png
+		Images\microatx.jpg = Images\microatx.jpg
+		Images\miniatx.png = Images\miniatx.png
+		Images\minitx.jpg = Images\minitx.jpg
+		Images\motherboard.jpg = Images\motherboard.jpg
+		Images\motherboard2.avif = Images\motherboard2.avif
+		Images\motherboardport5.jpg = Images\motherboardport5.jpg
+		Images\picobtx.jpg = Images\picobtx.jpg
+		Images\standardatx.avif = Images\standardatx.avif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Portfolio6", "Portfolio6", "{F071E9F6-7D61-4773-8A99-D5C3F7C37AFA}"
+	ProjectSection(SolutionItems) = preProject
+		Images\Mainframe-Computers.webp = Images\Mainframe-Computers.webp
+		Images\microcomp.jpeg = Images\microcomp.jpeg
+		Images\minicomp.jpg = Images\minicomp.jpg
+		Images\servers.webp = Images\servers.webp
+		Images\supercomputerimages.webp = Images\supercomputerimages.webp
+		Images\workstation.avif = Images\workstation.avif
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{941C87EC-9F70-4F78-8429-995D4ADA5F45} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+		{DA66F536-5932-4CB0-AAB6-4703D0ADDFA1} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+		{B4AD53BF-CC9A-4DD3-B737-4B6B8CBF720B} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+		{D31A6830-7A07-4330-AD38-C5AB2134C41A} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+		{A6845F7D-F914-4D84-9E49-42A8C84D7F4B} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+		{F071E9F6-7D61-4773-8A99-D5C3F7C37AFA} = {0BAF8686-1453-4C7B-AFD2-67E86243136B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0450D43-0009-448D-9C22-015889CF7D20}
+	EndGlobalSection
+EndGlobal
